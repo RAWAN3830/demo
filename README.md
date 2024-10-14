@@ -1,5 +1,6 @@
-# clock_app
+<p> 
 
+<<<<<<< HEAD
 A new Flutter project.
 
 ## Getting Started
@@ -15,3 +16,7 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 "# clock_app" 
+=======
+<img src="https://github.com/RAWAN3830/demo/blob/main/celebration1.webp" height="500"/>
+</p>
+>>>>>>> faf5edcda498108e6303b36183b25d66dfc8dd8a
