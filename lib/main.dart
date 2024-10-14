@@ -131,7 +131,7 @@ class _MyHomePageState extends State<MyHomePage> {
                           ),
                           Align(
                             alignment: Alignment.center,
-                            child: Transform.rotate(angle:hour*pi/295,
+                            child: Transform.rotate(angle:hour*pi/292,
                             child: Divider(color: Colors.green,thickness: 6,indent: 140,endIndent: 60,),),
                           ),
                           Center(
