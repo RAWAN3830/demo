@@ -155,7 +155,7 @@ class _MyHomePageState extends State<MyHomePage> {
                         child: Container(
                           height: 12,
                           width: 12,
-                          decoration: BoxDecoration(
+                          decoration: const BoxDecoration(
                             color: Colors.orange,
                             shape: BoxShape.circle,
                           ),
